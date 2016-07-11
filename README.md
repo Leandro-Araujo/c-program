@@ -21,6 +21,6 @@ Veja [aqui](https://github.com/Leandro-Araujo/c-program/blob/master/sizeof.c)
 
 ### __func__
 
-Consoante interna da função que diz o nome dela, muito útil em *python* por exemplo, porque é muito usado para definir um módulo comum de um módulo raiz.
+Consoante interna da função que diz o nome dela, mecanismo semelhante é muito útil em *python* por exemplo, porque é muito usado para definir um módulo comum de um módulo raiz.
 
 Veja [aqui](https://github.com/Leandro-Araujo/c-program/blob/master/__func__.c)
