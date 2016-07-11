@@ -17,4 +17,4 @@ Veja um exemplo [aqui](https://github.com/Leandro-Araujo/c-program/blob/master/u
 
 ### __func__
 
-Variável interna da função que diz o dela, muito útil em *python* por exemplo, porque é muito usado para definir um módulo comum de um módulo raiz.
+Consoante interna da função que diz o dela, muito útil em *python* por exemplo, porque é muito usado para definir um módulo comum de um módulo raiz.
