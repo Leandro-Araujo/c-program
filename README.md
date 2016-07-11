@@ -10,3 +10,7 @@ Veja um exemplo [aqui](https://github.com/Leandro-Araujo/c-program/blob/master/u
 ###Struct em C
 
 'struct' é bem parecido com o 'union' com a diferença que o tamanho total do dado será a soma de todos os elementos que o compõe.
+
+### Sizeof
+
+'sizeof' não é uma função, e sim um operador da linguagem, serve para mostrar o tamanho de uma variável, muito utilizado com 'struct' e 'union'.
