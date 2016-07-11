@@ -14,3 +14,7 @@ Veja um exemplo [aqui](https://github.com/Leandro-Araujo/c-program/blob/master/u
 ### Sizeof
 
 'sizeof' não é uma função, e sim um operador da linguagem, serve para mostrar o tamanho de uma variável, muito utilizado com 'struct' e 'union'.
+
+### __func__
+
+Variável interna da função que diz o dela, muito útil em *python* por exemplo, porque é muito usado para definir um módulo comum de um módulo raiz.
