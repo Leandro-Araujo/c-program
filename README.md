@@ -36,3 +36,7 @@ Especificador que serve para criar variáveis que sempre guardará seu valor par
 ### enum
 
 Serve para criar uma sequencia de numeros inteiros acessados apartir de um conjunto de variáveis.
+
+### volatile
+
+Esta palavra chave, após uma constante(const), permite que qualquer rotina interna possa modificar seu valor, como por exemplo, um hardware.
