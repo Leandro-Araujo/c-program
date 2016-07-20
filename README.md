@@ -33,6 +33,6 @@ Este especificador é opcionalmente colocado antes do tipo da variável serve pa
 
 Especificador que serve para criar variáveis que sempre guardará seu valor para as várias vezes que a função seja chamada.
 
-# enum
+### enum
 
 Serve para criar uma sequencia de numeros inteiros acessados apartir de um conjunto de variáveis.
