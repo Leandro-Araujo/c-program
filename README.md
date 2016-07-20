@@ -28,3 +28,7 @@ Veja [aqui](https://github.com/Leandro-Araujo/c-program/blob/master/__func__.c)
 ### register
 
 Este especificador é opcionalmente colocado antes do tipo da variável serve para dizer que a variável deve ser armazenada, sempre que possível, nos processadores, tonando assim qualquer operação com esta variável mais rápida.
+
+### static
+
+Especificador que serve para criar variáveis que sempre guardará seu valor para as várias vezes que a função seja chamada.
