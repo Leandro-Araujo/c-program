@@ -39,4 +39,4 @@ Serve para criar uma sequencia de numeros inteiros acessados apartir de um conju
 
 ### volatile
 
-Esta palavra chave, após uma constante(const), permite que qualquer rotina interna possa modificar seu valor, como por exemplo, um hardware.
+Esta palavra chave, após uma constante(const), permite que qualquer rotina externa possa modificar seu valor, como por exemplo, um hardware.
